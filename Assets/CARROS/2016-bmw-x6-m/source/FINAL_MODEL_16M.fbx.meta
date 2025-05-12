@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 11848032a5043144daa0a9b851b77fcd
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Badge_Max_002
+    second: {fileID: 2100000, guid: 29109d5951bdc5b498b9a95ca1e807bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_CarPaintNormal_Max1
+    second: {fileID: 2100000, guid: 1410d9e108b086e4a88bd78c9eb92769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_CarPaint_Max1
+    second: {fileID: 2100000, guid: e18bb17249c013243a3476553b573fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Chassis_Max1
+    second: {fileID: 2100000, guid: 32241d250f445c544915e79730fbdf9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Engine_Max1
+    second: {fileID: 2100000, guid: 743ce28657dc3bb479831c82912714cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_GlassOpaque_Mirror_Max_002
+    second: {fileID: 2100000, guid: fdde744d05e0aee4084aad46f049b2a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Glass_WindowSurroundFront_Low1
+    second: {fileID: 2100000, guid: 4cfeebb95a5cba54a92f30ffd21bedcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_GrilleA_Max1
+    second: {fileID: 2100000, guid: 85706cd2101cc1f49945327a215aaa66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_GrilleB_Max1
+    second: {fileID: 2100000, guid: 0af815c7b23faa6478e1929ef55eb2bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_InteriorTiledSimple_Max1
+    second: {fileID: 2100000, guid: 2eef8cb99315f0540b6025fe9bd8859a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_InteriorTiled_Common_Max1
+    second: {fileID: 2100000, guid: c970f1c334e9a1b4b92c11982d695962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Interior_Max1
+    second: {fileID: 2100000, guid: a2dd57d4e2b514641ae10f4a4afa62d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_LightGlass_Clear_Low1
+    second: {fileID: 2100000, guid: 75bb3027c83ba3c428ec2f2b64d64bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_LightGlass_Orange_Low1
+    second: {fileID: 2100000, guid: d239eab2fcc10f44daf3c26d6fbe2e04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_LightGlass_Red_Low1
+    second: {fileID: 2100000, guid: 73247a4c36ccb0846b83e933684d222a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Light_Max1
+    second: {fileID: 2100000, guid: ac135e1ed21e2bc4ea7b47f2f1b46ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Opaque_AluminumRough_Max1
+    second: {fileID: 2100000, guid: 9982295467a1df8499fd2c1607733515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Opaque_ChromeSmooth_Max1
+    second: {fileID: 2100000, guid: 00bc97b6aa388ec41b126d7fa629b655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Opaque_PaintSolidBlack_Max1
+    second: {fileID: 2100000, guid: b95c3e2398f1c60438b85c6f539fd448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Opaque_PlasticRoughBlack_Max_028
+    second: {fileID: 2100000, guid: a54535199bf032c458420fe36814ee7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Opaque_PlasticSmoothBlack_Max1
+    second: {fileID: 2100000, guid: 5ca2fb580c20bbd4d881097e8cbdb174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_RimBadge_Max1
+    second: {fileID: 2100000, guid: 6c61183401611134e9b95b1702079de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Rim_Main_Max1
+    second: {fileID: 2100000, guid: afd0264f316ac9a48814a920f69d5182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_M_Rim_Secondary_Max1
+    second: {fileID: 2100000, guid: f5d700fd87ded394693c390a6db0cf48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car_bmw_x5m_2014_Mesh_Badges
+    second: {fileID: 2100000, guid: 79fb780de4b1ab54da0ce3f0c7b621da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car_bmw_x5m_2014_Mesh_caliper
+    second: {fileID: 2100000, guid: 36220f0b920724a4e84184c00d585b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car_bmw_x5m_2014_Mesh_disk
+    second: {fileID: 2100000, guid: 2f01bc183d32e5f4db8a0636cd526ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 189be7e6f6a56f54a8d301432ee3e7c9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Badge_D
+    second: {fileID: 2800000, guid: f441a757e7c69dc418e26f0612e499b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Badges_D
+    second: {fileID: 2800000, guid: f4ad9bb7e609963488b3b2944401351b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X5M_2014_Badges_N
+    second: {fileID: 2800000, guid: 9882ad51533a8ed4f9822fa95227d710, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Engine_D
+    second: {fileID: 2800000, guid: 1fbeede345bd1124388a01f0196788f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Engine_NO
+    second: {fileID: 2800000, guid: 80b932a1dc7117c45ae5c9b572b41f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_GrilleA_NO
+    second: {fileID: 2800000, guid: 3c31015391e5c8f4d96ba833e5f8c657, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_GrilleB_NO
+    second: {fileID: 2800000, guid: cadb976a37e2cf64fb8461343541fc7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_InteriorTiledSimple_D
+    second: {fileID: 2800000, guid: e0033b53480aa0e48ae8bae26130ea7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_InteriorTiledSimple_NO
+    second: {fileID: 2800000, guid: c9391f77989d67246997b258688fe572, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Interior_D
+    second: {fileID: 2800000, guid: 080d8bdafcbf7dc4ebe06a255848bffb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Interior_NO
+    second: {fileID: 2800000, guid: 9a8362a14bfaa364990952159738ec90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Light_SetA_D
+    second: {fileID: 2800000, guid: 48b2f540982deb349b7cf575bf1117c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Light_SetA_IN_ND
+    second: {fileID: 2800000, guid: fea0d420bd03be244913cdc8a689a74e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_RimBadge_N
+    second: {fileID: 2800000, guid: 4ba35df59e5f67447bd8a861b54daf1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_BMW_X6M_2016_Rim_N
+    second: {fileID: 2800000, guid: e44968a8eef231845af513afad3cf7d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RimBadge_D
+    second: {fileID: 2800000, guid: 5afcb7ffc45f6f64386815b38d43be0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shared_Car_CaliperExoticParking_Diffuse_Blue
+    second: {fileID: 2800000, guid: 60c7f4479f3d7dc499eb6e1785a9207a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shared_Car_CaliperExoticParking_N
+    second: {fileID: 2800000, guid: 051ea995ed613a44ba18ae127a229a06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shared_Car_DiscForgedSolid_D
+    second: {fileID: 2800000, guid: 76f3be159374ea64c938558052db5944, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shared_Car_DiscForgedSolid_N
+    second: {fileID: 2800000, guid: 0728459a8fa5f4145910c7d592547fb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shared_Car_Tire_Sport_N
+    second: {fileID: 2800000, guid: 0e81ec8b28b7c2a4c93be99a96a4329c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
