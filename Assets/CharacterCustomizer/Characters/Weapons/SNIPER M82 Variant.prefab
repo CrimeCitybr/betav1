@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6542293956599403736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5000007
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.06099979
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.19100173
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.026999343
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.47584364
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.41270104
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.47507212
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.6144569
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -77.577
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 345.173
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587229461888056625, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -243.569
+      objectReference: {fileID: 0}
+    - target: {fileID: 2930857990971156363, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_Name
+      value: SNIPER M82 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6467831754146836544, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8873450923734636497, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: Unlocked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8955002424569764730, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00000041723234
+      objectReference: {fileID: 0}
+    - target: {fileID: 8955002424569764730, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.072100766
+      objectReference: {fileID: 0}
+    - target: {fileID: 8955002424569764730, guid: 12ee8c7845ee649429e2f2a3886c056d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1227987
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12ee8c7845ee649429e2f2a3886c056d, type: 3}
