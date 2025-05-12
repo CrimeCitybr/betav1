@@ -306,7 +306,7 @@
                 {
                     "propertyName": "BodyCustomization_ShoulderWidth",
                     "stringValue": "",
-                    "floatValue": 0.0,
+                    "floatValue": 1.0,
                     "colorValue": {
                         "r": 0.0,
                         "g": 0.0,
@@ -449,7 +449,7 @@
                 {
                     "propertyName": "shp_head_04",
                     "stringValue": "",
-                    "floatValue": 0.0,
+                    "floatValue": 1.0,
                     "colorValue": {
                         "r": 0.0,
                         "g": 0.0,
@@ -527,7 +527,7 @@
                 {
                     "propertyName": "BodyCustomization_Height",
                     "stringValue": "",
-                    "floatValue": -1.0,
+                    "floatValue": 1.0,
                     "colorValue": {
                         "r": 0.0,
                         "g": 0.0,
@@ -539,19 +539,19 @@
                 }
             ],
             "HairNames": [
-                "Long_01_F",
+                "Ponytail_01",
                 "Eyebrows_02"
             ],
             "ApparelNames": [
-                "Vest_01",
-                "LowerBody_Default",
-                "High_Heels_01",
-                "Glasses"
+                "Hoodie_01",
+                "Jeans_01_Black",
+                "Sneaker_02",
+                "Headwear_Default"
             ],
             "ApparelMaterials": [
-                2,
-                1,
-                1,
+                0,
+                0,
+                0,
                 0
             ],
             "FloatProperties": [
@@ -579,7 +579,7 @@
                         "a": 0.0
                     },
                     "materialIndex": 0,
-                    "meshTag": "Head"
+                    "meshTag": ""
                 },
                 {
                     "propertyName": "_Make_Up_Opacity",
@@ -671,7 +671,7 @@
                         "r": 0.699999988079071,
                         "g": 0.5600000023841858,
                         "b": 0.4899999797344208,
-                        "a": 0.0
+                        "a": 0.2980392277240753
                     },
                     "materialIndex": 0,
                     "meshTag": ""
@@ -681,9 +681,9 @@
                     "stringValue": "",
                     "floatValue": 0.0,
                     "colorValue": {
-                        "r": 0.4117647111415863,
-                        "g": 0.5411764979362488,
-                        "b": 0.6392157077789307,
+                        "r": 0.22745098173618318,
+                        "g": 0.16862745583057404,
+                        "b": 0.12156862765550614,
                         "a": 0.0
                     },
                     "materialIndex": -1,
@@ -707,9 +707,9 @@
                     "stringValue": "",
                     "floatValue": 0.0,
                     "colorValue": {
-                        "r": 0.3764705955982208,
-                        "g": 0.2862745225429535,
-                        "b": 0.21960784494876862,
+                        "r": 0.10196078568696976,
+                        "g": 0.10196078568696976,
+                        "b": 0.10196078568696976,
                         "a": 0.0
                     },
                     "materialIndex": -1,
